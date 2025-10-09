@@ -9,4 +9,4 @@
 ## My tech stack: 🧰
 
 ### Programming languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,js,ts)](https://skillicons.dev)
