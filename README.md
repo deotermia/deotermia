@@ -2,9 +2,9 @@
 ## I am a novice programmer who is starting his career in the field of system development. 
 
 ## About me: 🧔🏻‍♂️
-📃 My name: Nikita
-🌍 Languages: Russian(Native speaker), English(B1), Chinese(HSK2).
-🌏 My location: Russia.
+1. 📃 My name: Nikita
+2. 🌍 Languages: Russian(Native speaker), English(B1), Chinese(HSK2).
+3. 🌏 My location: Russia.
 
 ## My tech stack: 🧰
 
