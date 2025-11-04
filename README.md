@@ -23,11 +23,11 @@
 ## 🛠️ Tech Stack
 
 ### 💻 **Programming Languages**
-[![My Programming Languages](https://skillicons.dev/icons?i=cpp,rust,py)
+[![My Programming Languages](https://skillicons.dev/icons?i=cpp,rust,py)]
 
 ### 🔧 **Development Tools**
-[![My Tools](https://skillicons.dev/icons?i=neovim,docker,vscode,visualstudio,obsidian,linux,bash)
+[![My Tools](https://skillicons.dev/icons?i=neovim,docker,vscode,visualstudio,obsidian,linux,bash,git)]
 
 ### 🏗️ **Build Systems & Frameworks**
-[![My Tools2](https://skillicons.dev/icons?i=git,cmake,qt,react)
+[![My Tools2](https://skillicons.dev/icons?i=cmake,qt,react)]
 
