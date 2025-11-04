@@ -26,8 +26,8 @@
 [![My Programming Languages](https://skillicons.dev/icons?i=cpp,rust,py)
 
 ### 🔧 **Development Tools**
-[![My Tools](https://skillicons.dev/icons?i=neovim,docker,vscode,visualstudio,obsidian)
+[![My Tools](https://skillicons.dev/icons?i=neovim,docker,vscode,visualstudio,obsidian,linux,bash)
 
 ### 🏗️ **Build Systems & Frameworks**
-[![My Tools2](https://skillicons.dev/icons?i=make,cmake,qt,react)
+[![My Tools2](https://skillicons.dev/icons?i=git,cmake,qt,react)
 
