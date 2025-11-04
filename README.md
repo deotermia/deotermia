@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 **Programming Languages**
-[![My Programming Languages](https://skillicons.dev/icons?i=cpp,rust,py,js)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,rust,py,js)](https://skillicons.dev)
 
 ### 🔧 **Development Tools**
 [![My Tools](https://skillicons.dev/icons?i=neovim,docker,vscode,visualstudio,obsidian,linux,bash,git)](https://skillicons.dev)
