@@ -15,7 +15,6 @@
 <div align="center">
   
   ![Deotermia's GitHub stats](https://github-readme-stats.vercel.app/api?username=deotermia&show_icons=true&theme=radical&hide_border=true)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deotermia&theme=radical&hide_border=true)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deotermia&layout=compact&theme=radical&hide_border=true)
 
 </div>
