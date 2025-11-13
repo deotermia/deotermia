@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Nikita</h1>
-<h3 align="center">💻 Systems Developer & Systems Designer</h3>
+<h3 align="center">💻 Software/Backend Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/deotermia">
@@ -21,12 +21,14 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 **Programming Languages**
-[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,rust,py,js)](https://skillicons.dev)
+### 💻 **Main Programming Languages**
+[![My Programming Languages](https://skillicons.dev/icons?i=go,rust,js)](https://skillicons.dev)
+
+### 💻 **Secondary Programming Languages**
+[![My Programming Languages](https://skillicons.dev/icons?i=cpp,py,js)](https://skillicons.dev)
 
 ### 🔧 **Development Tools**
 [![My Tools](https://skillicons.dev/icons?i=neovim,docker,obsidian,linux,arch,bash,git)](https://skillicons.dev)
 
 ### 🏗️ **Build Systems & Frameworks**
 [![My Tools2](https://skillicons.dev/icons?i=cmake,qt,react)](https://skillicons.dev)
-
