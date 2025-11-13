@@ -22,10 +22,10 @@
 ## 🛠️ Tech Stack
 
 ### 💻 **Main Programming Languages**
-[![My Programming Languages](https://skillicons.dev/icons?i=go,rust,js)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=go,rust,ts)](https://skillicons.dev)
 
 ### 💻 **Secondary Programming Languages**
-[![My Programming Languages](https://skillicons.dev/icons?i=cpp,py,js)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
 
 ### 🔧 **Development Tools**
 [![My Tools](https://skillicons.dev/icons?i=neovim,docker,obsidian,linux,arch,bash,git)](https://skillicons.dev)
