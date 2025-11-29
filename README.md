@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hello, I'm Nikita</h1>
 <h3 align="center">💻 Software/Graphics Engineer</h3>
 
-<p align="center">
-  <a href="https://github.com/deotermia">
-    <img src="https://komarev.com/ghpvc/?username=deotermia&color=blue&style=flat" alt="Profile views" />
-  </a>
   <a href="https://github.com/deotermia?tab=followers">
     <img src="https://img.shields.io/github/followers/deotermia?label=Followers&style=social" alt="Followers" />
   </a>
