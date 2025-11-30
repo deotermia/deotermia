@@ -18,10 +18,10 @@
 ## 🛠️ Tech Stack
 
 ### 💻 **Main Programming Languages**
-[![My Programming Languages](https://skillicons.dev/icons?i=cpp,js,wasm)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=cpp,rust,js,wasm)](https://skillicons.dev)
 
 ### 💻 **Second Programming Languages**
-[![My Programming Languages](https://skillicons.dev/icons?i=c,rust,py)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev)
 
 ### 🔧 **Development Tools**
 [![My Tools](https://skillicons.dev/icons?i=neovim,docker,obsidian,linux,arch,bash,git)](https://skillicons.dev)
