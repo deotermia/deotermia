@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
   
   ### 💻 **Main Programming Languages**
   [![My Programming Languages](https://skillicons.dev/icons?i=cpp,rust,js,wasm)](https://skillicons.dev)
