@@ -17,16 +17,19 @@
 
 </div>
 
-## 🛠️ Tech Stack
+<div align="center">
+  ## 🛠️ Tech Stack
+  
+  ### 💻 **Main Programming Languages**
+  [![My Programming Languages](https://skillicons.dev/icons?i=cpp,rust,js,wasm)](https://skillicons.dev)
+  
+  ### 💻 **Second Programming Languages**
+  [![My Programming Languages](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev)
+  
+  ### 🔧 **Development Tools**
+  [![My Tools](https://skillicons.dev/icons?i=neovim,docker,obsidian,linux,arch,bash,git)](https://skillicons.dev)
+  
+  ### 🏗️ **Build Systems & Frameworks**
+  [![My Tools2](https://skillicons.dev/icons?i=cmake,qt,react)](https://skillicons.dev)
 
-### 💻 **Main Programming Languages**
-[![My Programming Languages](https://skillicons.dev/icons?i=cpp,rust,js,wasm)](https://skillicons.dev)
-
-### 💻 **Second Programming Languages**
-[![My Programming Languages](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev)
-
-### 🔧 **Development Tools**
-[![My Tools](https://skillicons.dev/icons?i=neovim,docker,obsidian,linux,arch,bash,git)](https://skillicons.dev)
-
-### 🏗️ **Build Systems & Frameworks**
-[![My Tools2](https://skillicons.dev/icons?i=cmake,qt,react)](https://skillicons.dev)
+</div>
